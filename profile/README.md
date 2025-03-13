@@ -16,4 +16,4 @@ A software developing organization.
 
 ## Contact
 
-**Email:** regizzkontakt@gmail.com creewie.priv@gmail.com k.skorzynski@proton.me
+**Email:** regizzkontakt@gmail.com creewie.priv@gmail.com dev.skorzynski@proton.me
